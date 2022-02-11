@@ -26,4 +26,6 @@
  Após ter instalado o webpack-dev-server, vamos 
  executar este comando -> yarn webpack serve
  ### Instalando cross-env
- - yarn add cross-en -D
+ - yarn add cross-env -D
+ ### Instalando style-loader e css-loader
+ - yarn add style-loader css-loader -D
