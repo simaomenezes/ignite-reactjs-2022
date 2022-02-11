@@ -21,3 +21,7 @@
  ### Instalando html-webpack-plugin 
  - node deve ser uma versão >= 12
  - yarn add html-webpack-plugin -D
+ ### Instalando webpack-dev-server
+ - yarn add webpack-dev-server -D
+ Após ter instalado o webpack-dev-server, vamos 
+ executar este comando -> yarn webpack serve
