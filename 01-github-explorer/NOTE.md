@@ -29,3 +29,5 @@
  - yarn add cross-env -D
  ### Instalando style-loader e css-loader
  - yarn add style-loader css-loader -D
+ ### Instalando sass-loader e node-sass 
+ - yarn add sass-loader node-sass -D
