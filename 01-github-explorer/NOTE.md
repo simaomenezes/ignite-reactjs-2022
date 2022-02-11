@@ -25,3 +25,5 @@
  - yarn add webpack-dev-server -D
  Após ter instalado o webpack-dev-server, vamos 
  executar este comando -> yarn webpack serve
+ ### Instalando cross-env
+ - yarn add cross-en -D
