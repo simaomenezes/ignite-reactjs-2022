@@ -18,3 +18,6 @@
  - yarn add babel-loader -D
  ### Executar o webpack
  - yarn webpack
+ ### Instalando html-webpack-plugin 
+ - node deve ser uma versão >= 12
+ - yarn add html-webpack-plugin -D
