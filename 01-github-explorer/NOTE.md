@@ -8,7 +8,6 @@
  - yarn add react-dom
 ### Instalando o @babel
  - yarn add @babel/core @babel/cli @babel/preset-env -D ( -D apenas ambiente de desenvolvimento)
-
  ### Instalando o @babel/preset-react
  - yarn add @babel/preset-react -D
  ### Executar o @babel
