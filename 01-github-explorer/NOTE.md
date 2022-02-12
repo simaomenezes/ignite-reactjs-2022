@@ -35,3 +35,6 @@
  ### const not change
  ### let it change
  - deixe seu valor mudar
+
+ ### Instalando react-refresh-webpack-plugin
+ - yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
