@@ -38,3 +38,6 @@
 
  ### Instalando react-refresh-webpack-plugin
  - yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+ ### Instalando typescript
+ - yarn add typescript -D
+
