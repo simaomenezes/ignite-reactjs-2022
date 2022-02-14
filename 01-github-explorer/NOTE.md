@@ -40,4 +40,11 @@
  - yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
  ### Instalando typescript
  - yarn add typescript -D
+ ### Inicializa o typescript
+ - yarn tsc -- init
 
+ ### Instalando TS para o babel
+ - yarn add @babel/preset-typescript -D
+
+ ### Instalando TS para reactjs
+ - yarn add @types/react-dom -D
