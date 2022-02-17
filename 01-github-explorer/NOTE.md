@@ -48,3 +48,4 @@
 
  ### Instalando TS para reactjs
  - yarn add @types/react-dom -D
+ - yarn add @types/react -D
